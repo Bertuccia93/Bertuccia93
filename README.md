@@ -31,6 +31,7 @@
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bertuccia93&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 ![Bertuccia93 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bertuccia93&show_icons=true&theme=tokyonight)
 
 
