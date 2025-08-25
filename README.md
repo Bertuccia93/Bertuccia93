@@ -23,6 +23,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/-php-php?style=flat-square&logo=php&logoColor=%23777BB4&color=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=php&logoColor=white">
+
 
 </p>
